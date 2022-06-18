@@ -12,3 +12,4 @@ Demostración en Video: Youtube...
 
 
 Diagrama UML del proyecto: https://drive.google.com/file/d/1xsvDakK5KKin2bqZmbDngarOa_LDKMst/view 
+GDD del proyecto https://colab.research.google.com/drive/1G8l162nq-vZYLEy268uR_8gNctBhzOs5?usp=sharing
