@@ -9,3 +9,6 @@ Codigo de Juego: https://www.plasticscm.com/orgs/a01029956/repos/RaceMaker/branc
 
 
 Demostración en Video: Youtube...
+
+
+GDD del proyecto: https://drive.google.com/file/d/1xsvDakK5KKin2bqZmbDngarOa_LDKMst/view 
